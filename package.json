@@ -31,12 +31,9 @@
     "@ionic/angular": "^7.0.0",
     "@ionic/storage": "^3.0.6",
     "@ngrx/component-store": "^15.4.0",
-    "ionicons": "^7.0.0",
-    "mojoauth-web-sdk": "^1.1.16",
-    "rxjs": "7.8.0",
-    "socket.io-client": "^4.6.1",
-    "tslib": "^2.3.0",
     "@capawesome/capacitor-background-task": "^2.0.0-dev.8c05008.1680891292",
+    "rxjs": "7.8.0",
+    "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
